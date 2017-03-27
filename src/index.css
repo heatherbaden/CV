@@ -1,0 +1,87 @@
+html { font-size: 62.5%; }
+body {
+  font-size: 1.4rem;
+  line-height: 1.6;
+}
+
+section, aside { padding: 1rem 0; }
+
+.standard p { margin: 0; }
+
+.standard h1,
+.standard h2,
+.standard h3,
+.standard h4,
+.standard h5,
+.standard h6 {
+  margin: 0 0 1rem;
+  font-weight: 300;
+}
+
+@media (min-width: 768px) {
+  .standard h1,
+  .standard h2 {
+    margin: 0;
+  }
+}
+
+@media all {
+  .standard h2 { color: #f08c00; }
+  .standard h3 { font-weight: bold; }
+}
+
+.standard a,
+.standard a:active,
+.standard a:visited,
+.standard a:focus {
+  color: #12b886;
+  border-bottom: 1px solid #12b886;
+}
+.standard a:hover {
+  color: white;
+  background-color: #12b886;
+  border-bottom: 1px solid #12b886;
+}
+
+.standard ul, .standard ol,
+.standard ul ul, .standard ol ul { /* reset hack.css */
+  margin: 0;
+  padding: 0 0 0 2rem;
+  list-style-type: disc;
+}
+
+.text--right { text-align: right; }
+
+.standard .list--unstyled {
+  padding: 0;
+  list-style: none;
+}
+.standard .list--spaced > li {
+  margin-bottom: 1rem;
+}
+
+.flush { margin-bottom: 0 !important; }
+
+.container {
+  max-width: 75rem;
+  padding: 0 3rem;
+}
+.jumbotron {
+  margin-bottom: 4rem;
+  padding: 3rem 0;
+  background-color: #f1f3f5;
+}
+
+@media print {
+  .page-break	{ display: block; page-break-before: always; }
+  .grid { display: block; }
+  .jumbotron { margin-bottom: 0; }
+  .list--printtabular {
+    width: 100%;
+    display: table;
+  }
+  .list--printtabular > li {
+    display: table-cell;
+    padding-right: 2rem;
+  }
+}

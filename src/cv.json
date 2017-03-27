@@ -1,0 +1,179 @@
+{
+  "personal": {
+    "legalName": "Heather Baden",
+    "preferredName": "Heather Baden",
+    "email": "heatherbaden@gmail.com"
+  },
+  "title": "Product Marketing and Developer Relations Lead",
+  "intro": "Passionate and highly outcomes-oriented product marketing manager and developer advocate. Experience across multiple industries and multinational contexts results in insightful and innovative thinking. Active in developer community, participant in Hackathons, contributor to external developer programs. I enjoy working autonomously and within energetic teams to tackle complex challenges.",
+  "location": {
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  "eligibilities": [
+    "USA (Citizen)",
+    "Australia (457 Visa)"
+  ],
+  "profiles": [
+    {
+      "name": "Github",
+      "username": "heatherbaden",
+      "website": "https://github.com/heatherbaden"
+    },
+    {
+      "name": "Twitter",
+      "username": "heatherbado",
+      "website": "https://github.com/heatherbado"
+    },
+    {
+      "name": "LinkedIn",
+      "username": "Heather Baden",
+      "website": "https://www.linkedin.com/in/heatherbaden"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Developer Evangelism",
+        "Product Marketing",
+        "Community Building",
+        "Account Management",
+        "Content Marketing",
+        "Strategy Development and Execution",
+        "Stakeholder Management"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Pittsburgh",
+      "qualification": "Bachelor Degree in Marketing / Certificate in International Business",
+      "yearStart": 2003,
+      "yearEnd": 2008
+    },
+    {
+      "institution": "Macquarie University",
+      "qualification": "International Business",
+      "yearStart": 2004,
+      "yearEnd": 2004
+    },
+    {
+      "institution": "The Art Institute of Pittsburgh",
+      "qualification": "Multimedia and Web Design",
+      "yearStart": 2002,
+      "yearEnd": 2003
+    }
+  ],
+  "work": [
+    {
+      "startDate": "2015",
+      "organization": "Telstra Corp Ltd",
+      "website": "https://www.telstra.com.au/",
+      "position": "Developer Community Manager",
+      "description": "Responsible for driving success in the cloud services portfolio - positioning Telstra as a market leader in cloud, attracting both Customers and Developers/ISVs. Whilst concurrently performing Product Marketing responsibility, I defined and am currently executing the creation of Telstra’s companywide developer program and developer relations strategy aligned to the broader business goals. Responsible for developer marketing, evangelism, community management and advocacy both internal and external.",
+      "highlights": [
+        "Implementing clear engagement and 'marketing' strategy with input from key stakeholders",
+        "Defined roadmap and essential program features",
+        "Proposed new prototype and collaborated on launch of full featured developer portal alongside engineering and UX teams",
+        "Compiling aggregated calendar of global and ANZ meetups, hackathons and conferences",
+        "Responsible for management of the end to end developer experience to further nurture and grow our current 25k registered developers",
+        "Improved the documentation for Telstra’s product offerings through capturing developer feedback",
+        "Gained alignment across teams to accelerate the program: Global Products, Engineering, Ops, IT, CTO, Legal, CMO",
+        "Helped to define the product marketing strategy for Telstra Cloud Services",
+        "Coordinated and ran the end to end execution of Go to Market for 4 key product while working closely with product management, engineering, PR, brand marketing, legal, support and sales",
+        "Created offers and campaigns to drive adoption of both Telstra and 3rd party IaaS, PaaS and SaaS solutions",
+        "Crafted strategies around messaging and marketing for releases, communications, sales enablement content, value propositions and digital assets",
+        "Ensure alignment of offer and product roadmaps and conduct offer performance reviews",
+        "Educated both internal and external stakeholders about product features and benefits",
+        "Analyse and identify offer performance and market trends and managed commercial matters as they related to the offer and portfolio of offers, including competitive threats"
+      ]
+    },
+    {
+      "startDate": "2015",
+      "endDate": "2015",
+      "organization": "ROKT Ltd",
+      "website": "https://rokt.com/",
+      "position": "Business Development Manager",
+      "description": "ROKT Transaction Marketing is built on a uniquely versatile transaction marketing platform that lets advertisers connect with customers when they’re most receptive, just when they’ve made an online purchase with a trusted brand like eBay. I was responsible for prospecting and closing new business contracts across all verticals with primary focus on Global top tier brands.",
+      "highlights": [
+        "Proactively prospected new business across categories; including but not limited to: Finance, Entertainment, Retail, Food & Beverage, Health & Beauty, Services, Electronics, and Travel.",
+        "Educated prospects and clients about ROKT technology, solutions, algorithms and the benefits of post transactional marketing",
+        "Secured client partnerships using consultative selling strategies",
+        "Developed familiarity with each client’s business, including but not limited to: products and/or services, consumer demographics, current marketing strategy, acquisition objectives, and revenue and profit drivers",
+        "Worked with advertisers to create relevant, strategic and engaging marketing campaigns to be presented across the ROKT network",
+        "Managed end to end sales campaign management, including account set up, reporting, and ongoing recommendations to drive incremental yield and revenue"
+      ]
+    },
+    {
+      "startDate": "2014",
+      "endDate": "2015",
+      "organization": "Alphatise Pty Ltd",
+      "website": "http://www.alphatise.com/",
+      "position": "Head of Sales & Accounts",
+      "description": "Alphatise was an Australian start-up and the world’s first marketplace that enabled sellers to view and respond to actual customer demand. I was responsible for building sales channel across APAC whilst developing and executing successful sales strategies with primary focus on Enterprise and including SMB across all categories.",
+      "highlights": [
+        "Established and maintained brand relationships with multinationals and Enterprise accounts at C level",
+        "Operated as the single point of contact for all sales ventures",
+        "Developed sales and post sales operations processes including; seller onboarding, logistics, payments",
+        "On-boarded over 50 suppliers resulting in numerous product catalogues with more than 30,000 products",
+        "Analysed consumer market and revised strategies weekly based on week-on-week sales to maximise revenue",
+        "Owned and managed product marketing, merchandising, and promotions of the Alphatise site based on stock availability, demand, profitability and seasonality",
+        "Conducted research and developed launch strategies for multiple international markets",
+        "Worked closely with the development team and product manager to advise the Sales requirements for the evolution and iterations of the Alphatise platform",
+        "Provided leadership and mentoring to sales team with no prior sales experience"
+      ]
+    },
+    {
+      "startDate": "2013",
+      "endDate": "2014",
+      "organization": "Groupon Australia",
+      "website": "https://www.groupon.com.au/",
+      "position": "Category Buyer – Fashion & Accessories",
+      "description": "Currently operating in 48 countries, with over 10,000 employees and recognised as the fastest growing company in history, Groupon is a global leader in e-commerce. I was responsible for growing and developing the Fashion and Accessories Category across the Australia and New Zealand channels primarily focusing on Tier 1 branded goods.",
+      "highlights": [
+        "Reached $1 Million in revenue within 8 months in a category new to the business",
+        "Achieved 106% to revenue target over 9 months resulting in winning the Emerald Club",
+        "Sourced and solidified top-tier brand relationships across the entire Fashion, Sporting Goods and Luggage categories for Australia and New Zealand",
+        "Negotiated terms of sale, price points and margin",
+        "Conducted industry research to keep current with trends and pricing dynamics in the consumer product goods space",
+        "Managed category and range selection to optimise sales as well as customer experience",
+        "Maintained focus and meticulous attention to detail in a fast moving sales environment whilst managing multiple projects",
+        "Negotiated logistics trade terms in order to decrease delivery times to end consumer",
+        "Recognized as top buyer in APAC on numerous occasions"
+      ]
+    },
+    {
+      "startDate": "2012",
+      "endDate": "2013",
+      "organization": "Robert Walters",
+      "website": "https://www.robertwalters.com.au/",
+      "position": "Supply Chain & Procurement Consultant",
+      "description": "With 53 offices in 24 countries and over 2,000 employees, Robert Walters is a leading specialist professional recruitment consultancy focusing on placing professionals into permanent, contract and temporary positions. I was responsible for operating and developing a successful section, recruiting for Supply Chain professionals, across all industries in the greater Sydney area and New South Wales.",
+      "highlights": [
+        "Sourced candidates and job vacancies through direct sales and referral, negotiation of cost, client visits, key account management, candidate interviewing and order fulfillment",
+        "Offered expertise, coaching and support and a consultative approach to both candidates and clients",
+        "Tendered for business and structure agreements with organizations for working in partnerships",
+        "Operated as sole consultant recruiting in Supply Chain & Procurement up to $110,000 both permanent and temporary"
+      ]
+    },
+    {
+      "startDate": "2007",
+      "endDate": "2012",
+      "organization": "Westinghouse Electric Co.",
+      "website": "http://www.westinghousenuclear.com/",
+      "position": "Bid Team Specialist – Supply Chain / Project Engineer",
+      "description": "Global leader in the design and construction and support of nuclear power plants and fuel. Company has manufacturing and design offices in US, Europe and Asia and sales offices worldwide. I was key bid team representative responsible for developing the Supply Chain responses to incoming Requests for Proposals for countries such as the United Kingdom and the Czech Republic.",
+      "highlights": [
+        "Produced and implemented global procurement strategies for highly complex and specialised materials, equipment and services",
+        "Established, monitored and reported on supply chain proposal status and proposal development to management and senior management during the course of offer development",
+        "Analysed customer inquiry documents for key deliverables and formulate plans for proper execution",
+        "Arranged and communicated SCM’s proposal response while serving on multiple bid teams",
+        "Developed strategy and project plans for bids to the Czech Republic, the United Kingdom, China, India, Lithuania, and the Americas",
+        "Independently drove management from 30% to 100% completion of metric data entry within one month of being assigned responsibility of SCM Human Performance Observations",
+        "Acted as sole liaison between supply chain and numerous bid teams",
+        "Independently coordinated delegation visits for prospective international customers",
+        "Spearheaded a Westinghouse-Wide Language Learning Initiative that has since been incorporated into Westinghouse University"
+      ]
+    }
+  ]
+}
